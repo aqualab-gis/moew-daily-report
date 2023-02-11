@@ -1,0 +1,130 @@
+parsed_data/text/01062020_Bulletin_Daily.txt: Could not parse 15   БДЗБР Карагьол            2,252    0,200                                         информация приток и разход
+parsed_data/text/01062020_Bulletin_Daily.txt: Could not parse 52   БДИБР Розов кладенец         20,400    13,268                                         информация приток и разход
+parsed_data/text/02062020_Bulletin_Daily.txt: Could not parse 15   БДЗБР Карагьол            2,252    0,200                                         информация приток и разход
+parsed_data/text/02062020_Bulletin_Daily.txt: Could not parse 52   БДИБР Розов кладенец         20,400    13,268                                         информация приток и разход
+parsed_data/text/03062020_Bulletin_Daily.txt: Could not parse 15   БДЗБР Карагьол            2,252    0,200                                         информация приток и разход
+parsed_data/text/03112022_Bulletin_Daily.txt: Could not parse 39   БДИБР Чаира                         5,500     1,369     1,301     23,66%       -0,068    -1,64%                                ↓
+parsed_data/text/04052020_Bulletin_Daily.txt: Could not parse 15   БДЗБР Карагьол            2,252    0,200                                         информация приток и разход
+parsed_data/text/04052020_Bulletin_Daily.txt: Could not parse 52   БДИБР Розов кладенец     20,400    13,268                                         информация приток и разход
+parsed_data/text/04062020_Bulletin_Daily.txt: Could not parse 15   БДЗБР Карагьол            2,252    0,200                                         информация приток и разход
+parsed_data/text/04062020_Bulletin_Daily.txt: Could not parse 52   БДИБР Розов кладенец         20,400    13,268                                         информация приток и разход
+parsed_data/text/04112022_Bulletin_Daily.txt: Could not parse 39   БДИБР Чаира                         5,500     1,369     1,210     22,00%       -0,159    -3,85%                                ↓
+parsed_data/text/05062020_Bulletin_Daily.txt: Could not parse 3   БДДР               15,500     1,000                                                                     0,590        0,590
+parsed_data/text/05062020_Bulletin_Daily.txt: Could not parse 4    БДДР                 27,700    4,200
+parsed_data/text/05062020_Bulletin_Daily.txt: Could not parse 25 БДЧР                  330,000   21,000
+parsed_data/text/05062020_Bulletin_Daily.txt: Could not parse 29 БДИБР                 45,000    3,900
+parsed_data/text/05062020_Bulletin_Daily.txt: Could not parse 35 БДДР               205,569     20,000
+parsed_data/text/05062020_Bulletin_Daily.txt: Could not parse 40 БДИБР                   23,980     3,300
+parsed_data/text/05062020_Bulletin_Daily.txt: Could not parse 49 БДИБР                  387,772    90,667
+parsed_data/text/05062020_Bulletin_Daily.txt: Could not parse 52 БДИБР                   20,400    13,268
+parsed_data/text/07112022_Bulletin_Daily.txt: Could not parse 39   БДИБР Чаира                         5,500     1,369     0,971     17,66%       -0,398    -9,63%                                ↓
+parsed_data/text/08052020_Bulletin_Daily.txt: Could not parse 3   БДДР                 15,500     1,000                                                                  0,000        0,347
+parsed_data/text/08052020_Bulletin_Daily.txt: Could not parse 4   БДДР                 27,700     4,200
+parsed_data/text/08052020_Bulletin_Daily.txt: Could not parse 15   БДЗБР   Карагьол         2,252    0,200                                                             разход
+parsed_data/text/08052020_Bulletin_Daily.txt: Could not parse 25   БДЧР                   330,000   21,000
+parsed_data/text/08052020_Bulletin_Daily.txt: Could not parse 29 БДИБР                 45,000    3,900
+parsed_data/text/08052020_Bulletin_Daily.txt: Could not parse 35   БДДР               205,569   20,000
+parsed_data/text/08052020_Bulletin_Daily.txt: Could not parse 40 БДИБР                 23,980     3,300
+parsed_data/text/08052020_Bulletin_Daily.txt: Could not parse 49 БДИБР                387,772    90,667
+parsed_data/text/08052020_Bulletin_Daily.txt: Could not parse 52 БДИБР                 20,400    13,268
+parsed_data/text/08062020_Bulletin_Daily.txt: Could not parse 3   БДДР               15,500     1,000                                                                      1,898        1,898
+parsed_data/text/08062020_Bulletin_Daily.txt: Could not parse 4    БДДР                 27,700    4,200
+parsed_data/text/08062020_Bulletin_Daily.txt: Could not parse 25 БДЧР               330,000   21,000
+parsed_data/text/08062020_Bulletin_Daily.txt: Could not parse 29 БДИБР               45,000    3,900
+parsed_data/text/08062020_Bulletin_Daily.txt: Could not parse 35 БДДР               205,569   20,000
+parsed_data/text/08062020_Bulletin_Daily.txt: Could not parse 40 БДИБР                     23,980     3,300
+parsed_data/text/08062020_Bulletin_Daily.txt: Could not parse 49 БДИБР                    387,772    90,667
+parsed_data/text/08062020_Bulletin_Daily.txt: Could not parse 52 БДИБР                     20,400    13,268
+parsed_data/text/08112022_Bulletin_Daily.txt: Could not parse 39   БДИБР Чаира                         5,500     1,369     0,904     16,43%       -0,465    -11,26%                                ↓
+parsed_data/text/09062020_Bulletin_Daily.txt: Could not parse 3   БДДР                  15,500     1,000                                                                      0,660            0,660
+parsed_data/text/09062020_Bulletin_Daily.txt: Could not parse 4    БДДР                   27,700    4,200
+parsed_data/text/09062020_Bulletin_Daily.txt: Could not parse 15 БДЗБР Карагьол            2,252    0,200                                                 информация приток и разход
+parsed_data/text/09062020_Bulletin_Daily.txt: Could not parse 25 БДЧР                 330,000   21,000
+parsed_data/text/09062020_Bulletin_Daily.txt: Could not parse 29 БДИБР                 45,000    3,900
+parsed_data/text/09062020_Bulletin_Daily.txt: Could not parse 35 БДДР                 205,569   20,000
+parsed_data/text/09062020_Bulletin_Daily.txt: Could not parse 40 БДИБР                     23,980     3,300
+parsed_data/text/09062020_Bulletin_Daily.txt: Could not parse 49 БДИБР                    387,772    90,667
+parsed_data/text/09062020_Bulletin_Daily.txt: Could not parse 52 БДИБР                     20,400    13,268
+parsed_data/text/09112022_Bulletin_Daily.txt: Could not parse 39   БДИБР Чаира                         5,500     1,369     0,837     15,22%       -0,532    -12,88%                                ↓
+parsed_data/text/10062020_Bulletin_Daily.txt: Could not parse 15   БДЗБР Карагьол            2,252    0,200                                         информация приток и разход
+parsed_data/text/10062020_Bulletin_Daily.txt: Could not parse 52   БДИБР Розов кладенец         20,400    13,268                                         информация приток и разход
+parsed_data/text/10112022_Bulletin_Daily.txt: Could not parse 39   БДИБР Чаира                         5,500     1,369     0,778     14,14%       -0,591    -14,31%                                ↓
+parsed_data/text/11052020_Bulletin_Daily.txt: Could not parse 15   БДЗБР Карагьол            2,252    0,200                                         информация приток и разход
+parsed_data/text/11052020_Bulletin_Daily.txt: Could not parse 52   БДИБР Розов кладенец     20,400    13,268                                         информация приток и разход
+parsed_data/text/11062020_Bulletin_Daily.txt: Could not parse 3   БДДР                  15,500        1,000                                                                        0,613         0,613
+parsed_data/text/11062020_Bulletin_Daily.txt: Could not parse 4    БДДР                   27,700    4,200
+parsed_data/text/11062020_Bulletin_Daily.txt: Could not parse 15 БДЗБР Карагьол            2,252    0,200                                               информация приток и разход
+parsed_data/text/11062020_Bulletin_Daily.txt: Could not parse 25 БДЧР                 330,000   21,000
+parsed_data/text/11062020_Bulletin_Daily.txt: Could not parse 29 БДИБР                 45,000    3,900
+parsed_data/text/11062020_Bulletin_Daily.txt: Could not parse 35 БДДР                 205,569   20,000
+parsed_data/text/11062020_Bulletin_Daily.txt: Could not parse 40 БДИБР                     23,980     3,300
+parsed_data/text/11062020_Bulletin_Daily.txt: Could not parse 49 БДИБР                    387,772    90,667
+parsed_data/text/11062020_Bulletin_Daily.txt: Could not parse 52 БДИБР                     20,400    13,268
+parsed_data/text/11112022_Bulletin_Daily.txt: Could not parse 39   БДИБР Чаира                         5,500     1,369     0,724     13,17%       -0,645    -15,60%                                ↓
+parsed_data/text/12052020_Bulletin_Daily.txt: Could not parse 15   БДЗБР Карагьол            2,252    0,200                                         информация приток и разход
+parsed_data/text/12062020_Bulletin_Daily.txt: Could not parse 3   БДДР                15,500     1,000                                                                       0,567              0,567
+parsed_data/text/12062020_Bulletin_Daily.txt: Could not parse 4    БДДР                   27,700    4,200
+parsed_data/text/12062020_Bulletin_Daily.txt: Could not parse 15 БДЗБР Карагьол            2,252    0,200                                                    приток и разход
+parsed_data/text/12062020_Bulletin_Daily.txt: Could not parse 25 БДЧР                 330,000   21,000
+parsed_data/text/12062020_Bulletin_Daily.txt: Could not parse 29 БДИБР                 45,000    3,900
+parsed_data/text/12062020_Bulletin_Daily.txt: Could not parse 35 БДДР                 205,569   20,000
+parsed_data/text/12062020_Bulletin_Daily.txt: Could not parse 40 БДИБР                     23,980     3,300
+parsed_data/text/12062020_Bulletin_Daily.txt: Could not parse 49 БДИБР                    387,772    90,667
+parsed_data/text/12062020_Bulletin_Daily.txt: Could not parse 52 БДИБР                     20,400    13,268
+parsed_data/text/14052020_Bulletin_Daily.txt: Could not parse 3   БДДР                 15,500     1,000                                                                 0,428               0,428
+parsed_data/text/14052020_Bulletin_Daily.txt: Could not parse 4   БДДР                 27,700     4,200
+parsed_data/text/14052020_Bulletin_Daily.txt: Could not parse 25 БДЧР                  330,000   21,000
+parsed_data/text/14052020_Bulletin_Daily.txt: Could not parse 29 БДИБР                 45,000    3,900
+parsed_data/text/14052020_Bulletin_Daily.txt: Could not parse 35 БДДР               205,569     20,000
+parsed_data/text/14052020_Bulletin_Daily.txt: Could not parse 40 БДИБР                 23,980    3,300
+parsed_data/text/14052020_Bulletin_Daily.txt: Could not parse 49 БДИБР                  387,772    90,667
+parsed_data/text/14052020_Bulletin_Daily.txt: Could not parse 52 БДИБР                   20,400    13,268
+parsed_data/text/14112022_Bulletin_Daily.txt: Could not parse 39   БДИБР Чаира                         5,500     1,369     0,702      12,77%          0,0      0,0                                  ↓
+parsed_data/text/15052020_Bulletin_Daily.txt: Could not parse 15   БДЗБР Карагьол            2,252    0,200                                         информация приток и разход
+parsed_data/text/15052020_Bulletin_Daily.txt: Could not parse 52   БДИБР Розов кладенец     20,400    13,268                                         информация приток и разход
+parsed_data/text/15062020_Bulletin_Daily.txt: Could not parse 15   БДЗБР Карагьол            2,252    0,200                                         информация приток и разход
+parsed_data/text/15062020_Bulletin_Daily.txt: Could not parse 52   БДИБР Розов кладенец         20,400    13,268                                         информация приток и разход
+parsed_data/text/16062020_Bulletin_Daily.txt: Could not parse 15   БДЗБР Карагьол            2,252    0,200                                         информация приток и разход
+parsed_data/text/16062020_Bulletin_Daily.txt: Could not parse 52   БДИБР Розов кладенец         20,400    13,268                                         информация приток и разход
+parsed_data/text/18052020_Bulletin_Daily.txt: Could not parse 15   БДЗБР Карагьол            2,252    0,200                                         информация приток и разход
+parsed_data/text/18052020_Bulletin_Daily.txt: Could not parse 52   БДИБР Розов кладенец     20,400    13,268                                         информация приток и разход
+parsed_data/text/18062020_Bulletin_Daily.txt: Could not parse 15   БДЗБР Карагьол            2.252    0.200                                         информация приток и разход
+parsed_data/text/18062020_Bulletin_Daily.txt: Could not parse 52   БДИБР Розов кладенец     20.400    13.268                                         информация приток и разход
+parsed_data/text/19052020_Bulletin_Daily.txt: Could not parse 3   БДДР                 15,500     1,000                                                                      0,451        0,451
+parsed_data/text/19052020_Bulletin_Daily.txt: Could not parse 4   БДДР                 27,700     4,200
+parsed_data/text/19052020_Bulletin_Daily.txt: Could not parse 25 БДЧР                  330,000   21,000
+parsed_data/text/19052020_Bulletin_Daily.txt: Could not parse 29 БДИБР                 45,000    3,900
+parsed_data/text/19052020_Bulletin_Daily.txt: Could not parse 35 БДДР               205,569     20,000
+parsed_data/text/19052020_Bulletin_Daily.txt: Could not parse 40 БДИБР                 23,980    3,300
+parsed_data/text/19052020_Bulletin_Daily.txt: Could not parse 49 БДИБР                  387,772    90,667
+parsed_data/text/19052020_Bulletin_Daily.txt: Could not parse 52 БДИБР                   20,400    13,268
+parsed_data/text/19062020_Bulletin_Daily.txt: Could not parse 15   БДЗБР Карагьол            2.252    0.200                                         информация приток и разход
+parsed_data/text/19062020_Bulletin_Daily.txt: Could not parse 52   БДИБР Розов кладенец     20.400    13.268                                         информация приток и разход
+parsed_data/text/21052020_Bulletin_Daily.txt: Could not parse 15   БДЗБР Карагьол            2,252    0,200                                         информация приток и разход
+parsed_data/text/21052020_Bulletin_Daily.txt: Could not parse 52   БДИБР Розов кладенец     20,400    13,268                                         информация приток и разход
+parsed_data/text/22052020_Bulletin_Daily.txt: Could not parse 15   БДЗБР Карагьол            2,252    0,200                                         информация приток и разход
+parsed_data/text/22052020_Bulletin_Daily.txt: Could not parse 52   БДИБР Розов кладенец     20,400    13,268                                         информация приток и разход
+parsed_data/text/23122021_Bulletin_Daily.txt: Could not parse 14   БДЗБР
+parsed_data/text/23122021_Bulletin_Daily.txt: Could not parse 15   БДДР
+parsed_data/text/24062020_Bulletin_Daily.txt: Could not parse 3    БДДР
+parsed_data/text/24062020_Bulletin_Daily.txt: Could not parse 4    БДДР
+parsed_data/text/24062020_Bulletin_Daily.txt: Could not parse 25 БДЧР
+parsed_data/text/24062020_Bulletin_Daily.txt: Could not parse 29 БДИБР
+parsed_data/text/24062020_Bulletin_Daily.txt: Could not parse 35 БДДР
+parsed_data/text/24062020_Bulletin_Daily.txt: Could not parse 40 БДИБР
+parsed_data/text/24062020_Bulletin_Daily.txt: Could not parse 49 БДИБР
+parsed_data/text/24062020_Bulletin_Daily.txt: Could not parse 52 БДИБР
+parsed_data/text/26052020_Bulletin_Daily.txt: Could not parse 15   БДЗБР Карагьол            2,252    0,200                                         информация приток и разход
+parsed_data/text/26052020_Bulletin_Daily.txt: Could not parse 52   БДИБР Розов кладенец     20,400    13,268                                         информация приток и разход
+parsed_data/text/27052020_Bulletin_Daily.txt: Could not parse 15   БДЗБР Карагьол            2,252    0,200                                         информация приток и разход
+parsed_data/text/27052020_Bulletin_Daily.txt: Could not parse 52   БДИБР Розов кладенец     20,400    13,268                                         информация приток и разход
+parsed_data/text/28052020_Bulletin_Daily.txt: Could not parse 15   БДЗБР Карагьол            2.252    0.200                                         информация приток и разход
+parsed_data/text/28052020_Bulletin_Daily.txt: Could not parse 52   БДИБР Розов кладенец     20.400    13.268                                         информация приток и разход
+parsed_data/text/29052020_Bulletin_Daily.txt: Could not parse 3    БДДР                 15,500    1,000                                                                    0,556            0,556
+parsed_data/text/29052020_Bulletin_Daily.txt: Could not parse 4    БДДР                 27,700    4,200
+parsed_data/text/29052020_Bulletin_Daily.txt: Could not parse 25 БДЧР               330,000   21,000
+parsed_data/text/29052020_Bulletin_Daily.txt: Could not parse 29 БДИБР               45,000    3,900
+parsed_data/text/29052020_Bulletin_Daily.txt: Could not parse 35 БДДР               205,569   20,000
+parsed_data/text/29052020_Bulletin_Daily.txt: Could not parse 40 БДИБР                     23,980     3,300
+parsed_data/text/29052020_Bulletin_Daily.txt: Could not parse 49 БДИБР                    387,772    90,667
+parsed_data/text/29052020_Bulletin_Daily.txt: Could not parse 52 БДИБР                     20,400    13,268
